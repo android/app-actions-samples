@@ -1,0 +1,9 @@
+status:       PUBLISHED
+technologies: [Android]
+categories:   [app-actions]
+languages:    [Kotlin]
+solutions:    [Mobile]
+github:       android/app-actions
+level:        intermediate
+apiRefs:
+license:      apache2
