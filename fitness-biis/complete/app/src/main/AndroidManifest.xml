@@ -21,6 +21,8 @@
 
     <!-- Needed permission to start the FitTrackingService in foreground mode -->
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <!-- Needed permission to support Runtime permission for sending non-exempt notifications -->
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
 
     <application
         android:name="com.devrel.android.fitactions.FitApp"
